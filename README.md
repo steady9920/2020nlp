@@ -19,6 +19,6 @@ jupyter notebook 을 실행하시면 단계별로 진행이됩니다.
  
  감사합니다. 
 
-
+다음 사이트의 코드를 기반으로 작성하였습니다. https://wikidocs.net/44249
 
 
